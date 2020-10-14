@@ -1,4 +1,4 @@
 #!/bin/bash
 name="Andrew"
 
-echo "Hello ${name}"
+echo "Hi ${name}"
